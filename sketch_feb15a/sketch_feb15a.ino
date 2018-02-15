@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial esp8266(2, 3);
+SoftwareSerial esp8266(1, 3);
 
 void setup() {
   // Open serial communications and wait for port to open:
@@ -18,9 +18,11 @@ void setup() {
 
 void loop() {
   if (esp8266.available()) {
+    Serial.println("Salgo");
     Serial.write(esp8266.read());
   }
   if (Serial.available()) {
+    Serial.println("Entro");
     esp8266.write(Serial.read());
   }
 }
