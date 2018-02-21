@@ -3,15 +3,15 @@
 
 ### ESP-12-E Pin configuration and functions
 
-![Alt text](https://github.com/icastillejogomez/ESP8266/blob/master/esp-12_pindef.png "ESP-12-E Pin configuration and functions")
+<p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/esp-12_pindef.png"></p>
 
 ### NodeMCU Pinout
 
-![Alt text](https://github.com/icastillejogomez/ESP8266/blob/master/nodemcu_pins.png "NodeMCU Pinout")
+<p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/nodemcu_pins.png"></p>
 
 ### Schematic ESP-12-E
 
-![Alt text](https://github.com/icastillejogomez/ESP8266/blob/master/schematic_esp-12e.png "Schematic ESP-12-E")
+<p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/schematic_esp-12e.png"></p>
 
 
 ### Páginas web para comprar componentes electrónicos:
