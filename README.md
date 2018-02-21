@@ -18,6 +18,8 @@
 - [ ] Arduino permite escribir en la memoria EEPROM desde código en cualquier dirección de la memoria. Pero... si ahí también se guardan las variables goblales del sketch en tiempo de ejecución ¿ cómo puedo escribir un dato que quiero perdure al tiempo en una dirección de memoria que yo establezca y protegerla para que el sketch no machaque mis datos al ir funcionando?
 
 - [ ] Hay que analizar a la competencia como alimenta sus sensores cuando no estan directamente enchufados a la red eléctrica. ¿LiPo?
+
+- [x] Esto es una tarea realizada.
 ### Páginas web para comprar componentes electrónicos:
 
 1. http://www.gearbest.com/
