@@ -1,4 +1,5 @@
 # ESP8266
+<p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/NodeMCU_12_E_picture.jpg"></p>
 
 ### ESP-12-E Pin configuration and functions
 
@@ -13,9 +14,7 @@
 ![Alt text](https://github.com/icastillejogomez/ESP8266/blob/master/schematic_esp-12e.png "Schematic ESP-12-E")
 
 
-## Documentación sobre el proyecto de domótica alrededor del SoC ESPXXXX
-
-# Páginas web para comprar componentes electrónicos:
+### Páginas web para comprar componentes electrónicos:
 
 1. http://www.gearbest.com/
 2. http://www.banggood.com/
@@ -23,8 +22,9 @@
 4. http://www.icstation.com/
 5. http://www.dx.com/
 
-## Videos interesantes
+### Videos interesantes
 
 1. [SuperHouseTV #24: Home automation system architecture](https://www.youtube.com/watch?v=vL54JfldB4Y)
 
-## [SuperHouseTV](https://www.youtube.com/channel/UC75HTMhqVZs0sPOMTMQqI9g)
+### Canales de YouTube interesantes
+1. [SuperHouseTV](https://www.youtube.com/channel/UC75HTMhqVZs0sPOMTMQqI9g)
