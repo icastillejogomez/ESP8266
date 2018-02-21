@@ -29,7 +29,7 @@
 3. http://www.tinydeal.com/es
 4. http://www.icstation.com/
 5. http://www.dx.com/
-5. https://www.microchipdirect.com/
+5. https://www.microchipdirect.com/ Coste envio aprox. 5.96€ Plazo de entrega aprox. 10 días.
 
 ### Videos interesantes
 
