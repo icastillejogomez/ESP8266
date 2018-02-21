@@ -29,6 +29,7 @@
 3. http://www.tinydeal.com/es
 4. http://www.icstation.com/
 5. http://www.dx.com/
+5. https://www.microchipdirect.com/
 
 ### Videos interesantes
 
