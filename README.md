@@ -19,6 +19,8 @@
 
 - [ ] Hay que analizar a la competencia como alimenta sus sensores cuando no estan directamente enchufados a la red eléctrica. ¿LiPo?
 
+- [ ] Tenemos que mirar como se usa y programa una ESPXXXX sin una shield NodeMCU
+
 - [x] Esto es una tarea realizada.
 ### Páginas web para comprar componentes electrónicos:
 
