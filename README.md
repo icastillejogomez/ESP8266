@@ -22,6 +22,7 @@
 - [ ] Tenemos que mirar como se usa y programa una ESPXXXX sin una shield NodeMCU
 
 - [x] Esto es una tarea realizada.
+
 ### Páginas web para comprar componentes electrónicos:
 
 1. http://www.gearbest.com/
@@ -39,7 +40,25 @@
 4. [Microcontroladores PIC : Explicacion y tipos](https://www.youtube.com/watch?v=pgUAigz_UXo)
 5. [¿Qué tiene dentro el Monitor Interruptor Wifi Sonoff Pow?](https://www.youtube.com/watch?v=I2yDMbnsstg) Muy bueno para estudiar esquemáticos de ESP8266 con memoria Flash **externa**
 6. [Cómo Flashear MicroPython en el ESP8266](https://www.youtube.com/watch?v=6GDvGe1D_0I)
+7. [Cómo Funciona una Fuente Conmutada](https://www.youtube.com/watch?v=nT3KajChQuA)
+8. [Tutorial sobre La UART/USART](https://www.youtube.com/watch?v=dGDaWapeaw4)
+9. [Uso de los protocolos seriales UART/USART](https://www.youtube.com/watch?v=hrlXZzTca6M)
+10. [STM32 Arduino Tutorial - How to use the STM32F103C8T6 board with the Arduino IDE](https://www.youtube.com/watch?v=K-jYSysmw9w)
+11. [Control Domótico de Televigilancia con Arduino Controlled, Labview y MAC](https://www.youtube.com/watch?v=0Scb8qG2V-Y)
+12. [Domótica Barata Sonoff en Español (4). 4CH PRO (4K)](https://www.youtube.com/watch?v=5eO1B4YzFeg)
+13. [Mini-cámara VC0706 con interfaz serie 3.3v TTL](https://www.youtube.com/watch?v=28Eoqpn_GRY)
+14. [Solid State Relay || DIY or Buy](https://www.youtube.com/watch?v=2UtL2uAYCUA)
+15. [How to Make a Smart Security Camera with a Raspberry Pi Zero](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
+16. [Inductancias y autoinductancias desde dos puntos de vista](https://www.youtube.com/watch?v=3Pynb1cRaf8)
+17. [Condensadores explicados desde tres puntos de vista distintos](https://www.youtube.com/watch?v=XnojEItGA2U)
+18. [Autoinducción. Experimentos.](https://www.youtube.com/watch?v=08K8oXa9Qa8)
+19. [¿Cómo funciona un motor de inducción?](https://www.youtube.com/watch?v=OlTDyL6ZPOY)
 
 
 ### Canales de YouTube interesantes
+
 1. [SuperHouseTV](https://www.youtube.com/channel/UC75HTMhqVZs0sPOMTMQqI9g)
+2. [TutoElectro](https://www.youtube.com/channel/UC-sYiyzPbjIGW8wMye9tbIw)
+3. [biblioman09](https://www.youtube.com/channel/UC9OHtNnklTrMj9pDu4XiVRQ)
+4. [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
+5. [Hacker House](https://www.youtube.com/channel/UCEcNXmr7DYq1XxpWHSxaN0w)
