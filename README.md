@@ -53,6 +53,13 @@
 17. [Condensadores explicados desde tres puntos de vista distintos](https://www.youtube.com/watch?v=XnojEItGA2U)
 18. [Autoinducción. Experimentos.](https://www.youtube.com/watch?v=08K8oXa9Qa8)
 19. [¿Cómo funciona un motor de inducción?](https://www.youtube.com/watch?v=OlTDyL6ZPOY)
+20. [Circuito RLC paralelo](https://www.youtube.com/watch?v=cmdr2vfETfU)
+30. [How to Make a Smartphone Connected Door Lock](https://www.youtube.com/watch?v=bAcK80fm1_0)
+31. [How RFID Works and How To Make an Arduino based RFID Door Lock](https://www.youtube.com/watch?v=QSx778Gr6Y4)
+32. [#64 What is the Ideal Battery Technology to Power 3.3V Devices like the ESP8266?](https://www.youtube.com/watch?v=heD1zw3bMhw)
+33. 
+33. [#58 Sensor ESP8266 funciona 17 días con una pila botón](https://www.youtube.com/watch?v=IYuYTfO6iOs)
+34. [#091 How to properly power the ESP8266 modules](https://www.youtube.com/watch?v=wf_msvWv1jk)
 
 
 ### Canales de YouTube interesantes
@@ -62,3 +69,5 @@
 3. [biblioman09](https://www.youtube.com/channel/UC9OHtNnklTrMj9pDu4XiVRQ)
 4. [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
 5. [Hacker House](https://www.youtube.com/channel/UCEcNXmr7DYq1XxpWHSxaN0w)
+6. [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)
+
