@@ -38,6 +38,8 @@
 3. [Conexión Ethernet entre dos MCU](https://www.youtube.com/watch?v=zVTO4wj2UCA)
 4. [Microcontroladores PIC : Explicacion y tipos](https://www.youtube.com/watch?v=pgUAigz_UXo)
 5. [¿Qué tiene dentro el Monitor Interruptor Wifi Sonoff Pow?](https://www.youtube.com/watch?v=I2yDMbnsstg) Muy bueno para estudiar esquemáticos de ESP8266 con memoria Flash **externa**
+6. [Cómo Flashear MicroPython en el ESP8266](https://www.youtube.com/watch?v=6GDvGe1D_0I)
+
 
 ### Canales de YouTube interesantes
 1. [SuperHouseTV](https://www.youtube.com/channel/UC75HTMhqVZs0sPOMTMQqI9g)
