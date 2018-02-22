@@ -34,6 +34,8 @@
 ### Videos interesantes
 
 1. [SuperHouseTV #24: Home automation system architecture](https://www.youtube.com/watch?v=vL54JfldB4Y)
+2. [Conectividad Ethernet para Microcontroladores](https://www.youtube.com/watch?v=1yh8d4ocX64)
+3. [Conexión Ethernet entre dos MCU](https://www.youtube.com/watch?v=zVTO4wj2UCA)
 
 ### Canales de YouTube interesantes
 1. [SuperHouseTV](https://www.youtube.com/channel/UC75HTMhqVZs0sPOMTMQqI9g)
