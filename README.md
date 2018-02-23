@@ -1,6 +1,16 @@
 # ESP8266
 <p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/NodeMCU_12_E_picture.jpg"></p>
 
+### ¿Qué es MQTT?
+
+MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicación machine-to-machine (M2M) en el "Internet of Things". Este protocolo está orientado a la comunicación de sensores, debido a que consume muy poco ancho de banda y puede ser utilizado en la mayoría de los dispositivos empotrados con pocos recursos (CPU, RAM, …). Un ejemplo de uso de este protocolo es la aplicación de Facebook Messenger tanto para android y Iphone. La arquitectura de MQTT sigue una topología de estrella, con un nodo central que hace de servidor o "broker" con una capacidad de hasta 10000 clientes. El broker es el encargado de gestionar la red y de transmitir los mensajes, para mantener activo el canal, los clientes mandan periódicamente un paquete (PINGREQ) y esperan la respuesta del broker (PINGRESP). La comunicación puede ser cifrada entre otras muchas opciones.
+
+[Oficial web](mqtt.org)
+
+[Geekytheory web](https://geekytheory.com/que-es-mqtt)
+
+[AWS IoT Protocolos Documentation](https://docs.aws.amazon.com/es_es/iot/latest/developerguide/protocols.html)
+
 ### ESP-12-E Pin configuration and functions
 
 <p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/esp-12_pindef.png"></p>
@@ -81,3 +91,4 @@
 5. [Hacker House](https://www.youtube.com/channel/UCEcNXmr7DYq1XxpWHSxaN0w)
 6. [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)
 7. [SinapTec](https://www.youtube.com/channel/UC8o-svyM8REGaJknduXI74Q)
+8. [Programarfacil](https://www.youtube.com/channel/UCSGPM_kJJ6jiTG4_y_mJXLA)
