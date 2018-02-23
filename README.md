@@ -11,6 +11,8 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci√
 
 [AWS IoT Protocolos Documentation](https://docs.aws.amazon.com/es_es/iot/latest/developerguide/protocols.html)
 
+<p align="center" ><img src="https://geekytheory.com/wp-content/uploads/2015/05/topologia.png"></p>
+
 ### ESP-12-E Pin configuration and functions
 
 <p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/esp-12_pindef.png"></p>
