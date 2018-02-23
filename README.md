@@ -60,6 +60,7 @@
 24. [#58 Sensor ESP8266 funciona 17 días con una pila botón](https://www.youtube.com/watch?v=IYuYTfO6iOs)
 25. [#091 How to properly power the ESP8266 modules](https://www.youtube.com/watch?v=wf_msvWv1jk)
 26. [New ESP8266 Voltage Regulator Design](https://www.youtube.com/watch?v=J66_8P043ko)
+27. [#135 Sensores Radar / Interruptores: Comparaciones y test](https://www.youtube.com/watch?v=9WiJJgIi3W0)
 
 ### Canales de YouTube interesantes
 
