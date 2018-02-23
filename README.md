@@ -85,6 +85,8 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci�
 37. [Meetup #8 - Introduccion MQTT](https://www.youtube.com/watch?v=J39kKnJLTRU)
 38. [Medidor de carga de baterías y pilas con Arduino paso a paso](https://www.youtube.com/watch?v=mBp5NaivDGk)
 39. [Como medir tensiónes mayores a 5v por arduino](https://www.youtube.com/watch?v=nW30cV6_I5o)
+40. [Familias de microcontroladores pic](https://www.youtube.com/watch?v=j4Kds3unZIo)
+41. [Asi se hace. Fabricacion de placas de circuitos electronicos. Discovery MAX.](https://www.youtube.com/watch?v=LqaRELYZ1yE)
 
 ### Canales de YouTube interesantes
 
