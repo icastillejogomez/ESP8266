@@ -62,6 +62,15 @@
 26. [New ESP8266 Voltage Regulator Design](https://www.youtube.com/watch?v=J66_8P043ko)
 27. [#135 Sensores Radar / Interruptores: Comparaciones y test](https://www.youtube.com/watch?v=9WiJJgIi3W0)
 28. [ESP32 with Camera and TFT Display (OV7670, FIFO)](https://www.youtube.com/watch?v=v_8XifFcpaI)
+29. [TUTORIAL: ESP8266 Motion Sensor for HomeKit](https://www.youtube.com/watch?v=wA10w_zZ-Mo)
+30. [Home Automation at Home Part 7: Lights & Homekit](https://www.youtube.com/watch?v=4jq-FLmUCP8)
+31. [Programacion Esp8266: Esp8266 y MQTT](https://www.youtube.com/watch?v=LfWJC-AZBaU)
+32. [Tutorial #11 ESP8266 (Parte1) - MQTT + CloudMQTT](https://www.youtube.com/watch?v=MD2pw21HAA8)
+33. [Tutorial #12 ESP8266 (Parte2) - MQTT + CloudMQTT + App de Android LinearMQTT](https://www.youtube.com/watch?v=MuTaFhuMdAo)
+34. [[Tutorial] MQTT y node-red con ESPino (ESP8266)](https://www.youtube.com/watch?v=2Ii-sJRL7oA)
+35. [Seminario de Actualizacion I - Protocolos IoT](https://www.youtube.com/watch?v=9QVHpgcF0yU)
+36. [#128 Protocolo MQTT para la domótica](https://www.youtube.com/watch?v=RVccNv3CXc8)
+37. [Meetup #8 - Introduccion MQTT](https://www.youtube.com/watch?v=J39kKnJLTRU)
 
 ### Canales de YouTube interesantes
 
@@ -71,4 +80,4 @@
 4. [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
 5. [Hacker House](https://www.youtube.com/channel/UCEcNXmr7DYq1XxpWHSxaN0w)
 6. [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)
-
+7. [SinapTec](https://www.youtube.com/channel/UC8o-svyM8REGaJknduXI74Q)
