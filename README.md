@@ -83,6 +83,8 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci�
 35. [Seminario de Actualizacion I - Protocolos IoT](https://www.youtube.com/watch?v=9QVHpgcF0yU)
 36. [#128 Protocolo MQTT para la domótica](https://www.youtube.com/watch?v=RVccNv3CXc8)
 37. [Meetup #8 - Introduccion MQTT](https://www.youtube.com/watch?v=J39kKnJLTRU)
+38. [Medidor de carga de baterías y pilas con Arduino paso a paso](https://www.youtube.com/watch?v=mBp5NaivDGk)
+39. [Como medir tensiónes mayores a 5v por arduino](https://www.youtube.com/watch?v=nW30cV6_I5o)
 
 ### Canales de YouTube interesantes
 
