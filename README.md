@@ -87,6 +87,8 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci√
 39. [Como medir tensi√≥nes mayores a 5v por arduino](https://www.youtube.com/watch?v=nW30cV6_I5o)
 40. [Familias de microcontroladores pic](https://www.youtube.com/watch?v=j4Kds3unZIo)
 41. [Asi se hace. Fabricacion de placas de circuitos electronicos. Discovery MAX.](https://www.youtube.com/watch?v=LqaRELYZ1yE)
+42. [Decodificador Infrarrojo || Protocolo NEC || Proyecto Arduino](https://www.youtube.com/watch?v=QujD8Lo7-3Q)
+
 
 ### Canales de YouTube interesantes
 
