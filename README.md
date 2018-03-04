@@ -21,6 +21,10 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci√
 
 <p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/nodemcu_pins.png"></p>
 
+### CP2102
+
+<p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/cp2102.png"></p>
+
 ### Schematic ESP-12-E
 
 <p align="center" ><img src="https://github.com/icastillejogomez/ESP8266/blob/master/schematic_esp-12e.png"></p>
