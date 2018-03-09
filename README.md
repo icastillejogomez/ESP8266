@@ -48,6 +48,10 @@ MQTT (Message Queue Telemetry Transport), un protocolo usado para la comunicaci�
 5. http://www.dx.com/
 5. https://www.microchipdirect.com/ Coste envio aprox. 5.96€ Plazo de entrega aprox. 10 días.
 
+### Blogs interesantes
+
+1. [Sensor de temperatura en arduino](https://programarfacil.com/podcast/48-sensor-de-temperatura-en-arduino/)
+
 ### Videos interesantes
 
 1. [SuperHouseTV #24: Home automation system architecture](https://www.youtube.com/watch?v=vL54JfldB4Y)
